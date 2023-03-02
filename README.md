@@ -1,1 +1,0 @@
-# quasagram-backend
